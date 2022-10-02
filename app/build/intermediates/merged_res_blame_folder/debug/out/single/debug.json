@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/drawable_tictactoelines.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/drawable/tictactoelines.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/anim_fade_anim.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/anim/fade_anim.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/layout_screen_splash.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/layout/screen_splash.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/font_goldman.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/font/goldman.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/font_aclonica.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/font/aclonica.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/drawable_tictactoe.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/drawable/tictactoe.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/layout_acitvity_main.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/layout/acitvity_main.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/layout_activity_game.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/layout/activity_game.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/font_baloo_bhaina.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/font/baloo_bhaina.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/font_akaya_telivigala.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/font/akaya_telivigala.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/font_baloo.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/font/baloo.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/layout_screen_game.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/layout/screen_game.xml"
+    },
+    {
+        "merged": "com.flexath.tictactoe.app-merged_res-29:/layout_activity_game.xml.flat",
+        "source": "com.flexath.tictactoe.app-main-31:/layout/activity_game.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/flexath/.gradle/daemon/7.3.3/com.flexath.tictactoe.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]

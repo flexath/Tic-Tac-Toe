@@ -1,0 +1,89 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.flexath.tictactoe"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:6:5-32:19
+12        android:allowBackup="true"
+12-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.8.0] /home/flexath/.gradle/caches/transforms-3/319818de8066db9dee1015fa48896948/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:8:9-65
+15        android:debuggable="true"
+16        android:fullBackupContent="@xml/backup_rules"
+16-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:9:9-54
+17        android:icon="@mipmap/ic_launcher"
+17-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:10:9-43
+18        android:label="@string/app_name"
+18-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:12:9-54
+20        android:supportsRtl="true"
+20-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:13:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.TicTacToe" >
+22-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:14:9-47
+23        <activity
+23-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:16:9-18:40
+24            android:name="com.flexath.tictactoe.GameActivity"
+24-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:17:13-41
+25            android:exported="false" />
+25-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:18:13-37
+26        <activity
+26-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:19:9-27:20
+27            android:name="com.flexath.tictactoe.MainActivity"
+27-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:20:13-41
+28            android:exported="true" >
+28-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:21:13-36
+29            <intent-filter>
+29-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:22:13-26:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:23:17-69
+30-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:23:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:25:17-77
+32-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:25:27-74
+33            </intent-filter>
+34        </activity>
+35
+36        <meta-data
+36-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:29:9-31:57
+37            android:name="preloaded_fonts"
+37-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:30:13-43
+38            android:resource="@array/preloaded_fonts" />
+38-->/home/flexath/TicTacToe/app/src/main/AndroidManifest.xml:31:13-54
+39
+40        <provider
+40-->[androidx.emoji2:emoji2:1.2.0] /home/flexath/.gradle/caches/transforms-3/8646fc24a05f0f3fb603801ddeb6af39/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+41            android:name="androidx.startup.InitializationProvider"
+41-->[androidx.emoji2:emoji2:1.2.0] /home/flexath/.gradle/caches/transforms-3/8646fc24a05f0f3fb603801ddeb6af39/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+42            android:authorities="com.flexath.tictactoe.androidx-startup"
+42-->[androidx.emoji2:emoji2:1.2.0] /home/flexath/.gradle/caches/transforms-3/8646fc24a05f0f3fb603801ddeb6af39/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+43            android:exported="false" >
+43-->[androidx.emoji2:emoji2:1.2.0] /home/flexath/.gradle/caches/transforms-3/8646fc24a05f0f3fb603801ddeb6af39/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+44            <meta-data
+44-->[androidx.emoji2:emoji2:1.2.0] /home/flexath/.gradle/caches/transforms-3/8646fc24a05f0f3fb603801ddeb6af39/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+45                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+45-->[androidx.emoji2:emoji2:1.2.0] /home/flexath/.gradle/caches/transforms-3/8646fc24a05f0f3fb603801ddeb6af39/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+46                android:value="androidx.startup" />
+46-->[androidx.emoji2:emoji2:1.2.0] /home/flexath/.gradle/caches/transforms-3/8646fc24a05f0f3fb603801ddeb6af39/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+47            <meta-data
+47-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/flexath/.gradle/caches/transforms-3/a12ed9220754cce2dddf3ed6d58bf3a3/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+48                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+48-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/flexath/.gradle/caches/transforms-3/a12ed9220754cce2dddf3ed6d58bf3a3/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+49                android:value="androidx.startup" />
+49-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/flexath/.gradle/caches/transforms-3/a12ed9220754cce2dddf3ed6d58bf3a3/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+50        </provider>
+51    </application>
+52
+53</manifest>
