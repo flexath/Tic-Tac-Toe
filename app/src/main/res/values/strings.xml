@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="logo_text">Logo</string>
+    <string name="tic_tac_toe_grid">Tic Tac Toe Grid</string>
+    <string name="button_one_text">Button One</string>
+    <string name="button_two_text">Button Two</string>
+    <string name="button_three_text">Button Three</string>
+    <string name="button_four_text">Button Four</string>
+    <string name="button_five_text">Button Five</string>
+    <string name="button_six_text">Button Six</string>
+    <string name="button_seven_text">Button Seven</string>
+    <string name="button_eight_text">Button Eight</string>
+    <string name="button_nine_text">Button Nine</string>
+    <string name="player_one_text">Player One</string>
+    <string name="player_two_text">Player Two</string>
+</resources>
